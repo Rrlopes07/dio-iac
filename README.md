@@ -1,0 +1,1 @@
+Repositório destinado aos arquivos criados ao longo da formação em sistema operacional Linux.
